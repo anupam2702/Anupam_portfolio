@@ -22,6 +22,7 @@ const Contact = () => {
             }
           )
       }
+      
 
   return (
     <div className="container-fluid p-5">
